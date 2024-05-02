@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Roman Akhtariev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Roman Akhtariev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos Security Handbook Pt. 1</title>
+      <link>http://localhost:1313/writings/cosmos-security-1/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/cosmos-security-1/</guid>
+      <description>Consolidating knowledge from multiple multi-million dollar war rooms on pitfalls in Cosmos SDK applications and how to avoid them.</description>
+    </item>
+  </channel>
+</rss>
