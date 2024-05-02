@@ -1,3 +1,3 @@
-[submodule "themes/typo"]
+[submodule "fork"]
 	path = themes/typo
-	url = git@github.com:tomfran/typo.git
+	url = git@github.com:p0mvn/typo.git
