@@ -7,7 +7,7 @@ theme = 'typo'
 disableKinds = ['taxonomy']
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxxx"
+googleAnalytics = "G-3MP9JPNRR2"
 
 [params]
 # Appearance
